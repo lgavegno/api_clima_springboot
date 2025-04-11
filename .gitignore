@@ -1,0 +1,11 @@
+# Archivos de log
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configs sensibles o temporales
+.env
+application.properties
+application.yml
